@@ -1,6 +1,6 @@
 package main
 
-import "example.com/roulette"
+import "github.com/moviex1/european-roulette/internal/roulette"
 
 func main() {
 	er := roulette.BuildEuropeanRoulette()
