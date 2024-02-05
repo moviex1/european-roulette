@@ -1,5 +1,8 @@
 run:
 	go run main.go
+test:
+	go test -v ./...
+
 build:
 	go build -o bin/eu_roulette main.go
 

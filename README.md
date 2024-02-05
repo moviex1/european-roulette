@@ -9,6 +9,11 @@ simple run
 make run
 ```
 
+to run all tests
+```bash
+make test
+```
+
 build for you current system
 ```bash
 make build
